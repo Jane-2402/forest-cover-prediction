@@ -205,3 +205,9 @@ Use advanced boosting algorithms
 ## Conclusion
 
 The Forest Cover Prediction System successfully predicts forest cover types using Machine Learning techniques. The project demonstrates the complete Machine Learning workflow from data preprocessing to deployment using Streamlit.
+
+
+
+##Team Member 1 - Janhvi Raghuvanshi(CSJMA23001390286)
+
+##Team Member 2 - Himanshu Patel(CSJMA23001390285)
