@@ -208,6 +208,6 @@ The Forest Cover Prediction System successfully predicts forest cover types usin
 
 
 
-##Team Member 1 - Janhvi Raghuvanshi(CSJMA23001390286)
+## Team Member 1 - Janhvi Raghuvanshi(CSJMA23001390286)
 
-##Team Member 2 - Himanshu Patel(CSJMA23001390285)
+## Team Member 2 - Himanshu Patel(CSJMA23001390285)
