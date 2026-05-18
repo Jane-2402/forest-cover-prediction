@@ -1,5 +1,7 @@
 # Forest Cover Prediction System 🌲
 
+## Live demo link - https://forest-cover-prediction-8wweamn3cxzohdrpvhf722.streamlit.app/
+
 ## Project Overview
 
 The Forest Cover Prediction System is a Machine Learning project that predicts the type of forest cover based on geographical and environmental features. The project uses classification algorithms to identify forest cover categories accurately and provides predictions through a Streamlit web application.
